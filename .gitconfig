@@ -1,0 +1,6 @@
+[user]
+	name = andres
+	email = andres_go3@hotmail.com
+[core]
+	editor = code --wait
+	auto = crlf
